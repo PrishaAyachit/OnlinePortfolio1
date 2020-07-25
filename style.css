@@ -1,0 +1,29 @@
+h3{
+  color: black;
+  text-align: center;
+}
+
+p{
+  color: blueviolet;
+}
+h2{
+  text-decoration: underline;
+  text-align: center;
+}
+h5{
+  font-family: fantasy;
+}
+img{
+  float: left;
+}
+header{
+  background-color: aliceblue;
+  text-align: center;
+  padding: 10px;
+}
+h6{
+  text-align: center;
+}
+
+
+ 
